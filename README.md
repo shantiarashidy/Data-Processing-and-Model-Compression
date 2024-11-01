@@ -9,10 +9,7 @@ A Python project focused on data preprocessing, analysis, and generating compres
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [License](#license)
+
 
 ---
 
